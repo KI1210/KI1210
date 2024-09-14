@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @KI1210
 
 - A curious learner 🔎
+- Believing in Ideas 💡
   
 - Interested in,
-    Mathematics 🧮
-    Sciences and Arts 🎨
+   - Innovation ⚡
+   - Mathematics 🧮
+   - Sciences and Arts 🎨
 
 - Undergraduate in Computer Science and Engineering 🖥️
 
